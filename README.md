@@ -1,6 +1,8 @@
 # Data Science Portfolio
 
 ## Contents
+### R Projects
+### Python Projects
 - ## R
   - Home Credit Default Risk
     - Objective Summary: HomeCredit Inc. aims to identify high-risk customers who are likely to default on their loans, as well as identify low-risk customers who have little to no line of credit.  The objective of this project is to construct predictive models using historical data to distinguish customers based on their ability to repay their loan.
