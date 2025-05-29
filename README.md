@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Data Project Portfolio
 
 ## Contents
 - ## R
@@ -31,6 +31,11 @@
     - Findings: It was observed that medical condition categories such as low birth weight and percentage of populations with asthma had noticeable correlation with the underlying pollution factors with relevance to those conditions. It was interesting to see the averages of different pollutant levels in Bay Area counties and how some counties had much higher prevalence of certain pollutants, which contributed to higher amounts of disease compared to other counties. When compared to the rest of the state of California, the Bay Area counties had lower levels of pollution burden, populations with lack of education, populations living in poverty, and populations who are unemployed. I believe these higher levels are a result of the burdens set on these counties by pollution factors and hazardous waste, which leads to more reports of disease for these areas.
    
 
-
-  
+- ## Others
+  - **[U of U Sports Budgeting Management](https://github.com/CSJoyce/UUBudget-Project)**
+    - Objective Summary: This project utilizes HTML, MySQL, and PHP to create an all-in-one website to serve as a university sports team budget monitoring tool, in which the administrator may add or deduct expenditures that contribute to the allocated budget for a specified team.
+    - Approach: This website is a tool for which financial data can be entered and viewed thanks to a SQL database connection.  Each sport program has their own respective and modifiable budget for which individual instances such as equipment costs, scholarship allocations, and donations are recorded.
+  - **[DMV Registration Database](https://github.com/CSJoyce/DMV-Project)**
+    - Objective Summary: This database project is intended to be utilized by the Department of Motor Vehicles in order to record and assign registration, licensing, and ticketing information for new and existing licensed drivers.  
+    - Approach: Conceptual and relational model diagrams and the associated SQl code layout the design and implementation of this database.
 
