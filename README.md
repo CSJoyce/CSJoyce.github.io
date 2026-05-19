@@ -2,6 +2,7 @@
 
 
 ## Current Projects
+
   - **[*Classwork Relational Database*]**
     - Objective Summary: Utilizing a combination of Chroma, Neo4j, and Obsidian, create an all-in-one suite for referencing past files, notes, and projects spanning across 6 years of higher education.
     - Goals: Organize past and current work with an emphasis on the relationships amongst course material for different classes to be mappable and queryable.
